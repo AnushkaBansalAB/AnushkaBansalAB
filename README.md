@@ -1,4 +1,4 @@
-### Hi there,This is Anushka Bansal 👋
+### Hi there, this is Anushka Bansal 👋
 I am a B.Tech Computer Science Engineering undergraduate.
 
 <!--
