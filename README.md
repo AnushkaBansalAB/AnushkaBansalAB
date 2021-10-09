@@ -1,5 +1,5 @@
 ### Hi there, this is Anushka Bansal 👋
-I am a B.Tech Computer Science Engineering undergraduate.
+I am a B.Tech CSE undergraduate.
 
 <!--
 **anushkabansal4/anushkabansal4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
